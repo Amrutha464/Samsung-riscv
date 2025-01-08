@@ -6,5 +6,11 @@ As part of this program, participants are given **6 tasks** to complete over the
 
 These certificates are recognized as highly prestigious in the fields of **RISC-V** and **VLSI design**, making this program a valuable opportunity for students and professionals alike to enhance their expertise in these cutting-edge domains.  
 
+the instructor for this program is Kunal Ghosh.
+
+**Basic Details:**
+**Name**: Amrutha S
+**College:** Global Acadmey Of Technology 
+**Github Profile:**
 ## TASK-1:
 Create a GitHub repository named **"samsung-riscv"**, install the RISC-V toolchain using the provided VDI link, follow the steps from the shared lab videos, and capture dated snapshots of the work. Upload the snapshots to the repository with brief descriptions.
