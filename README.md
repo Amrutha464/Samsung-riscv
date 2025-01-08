@@ -9,6 +9,7 @@ These certificates are recognized as highly prestigious in the fields of **RISC-
 The instructor for this program is Kunal Ghosh.
 
 **Basic Details:**
+
 **Name**: Amrutha S
 
 **College:** Global Acadmey Of Technology 
