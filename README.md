@@ -6,7 +6,7 @@ As part of this program, participants are given **6 tasks** to complete over the
 
 These certificates are recognized as highly prestigious in the fields of **RISC-V** and **VLSI design**, making this program a valuable opportunity for students and professionals alike to enhance their expertise in these cutting-edge domains.  
 
-the instructor for this program is Kunal Ghosh.
+The instructor for this program is Kunal Ghosh.
 
 **Basic Details:**
 **Name**: Amrutha S
