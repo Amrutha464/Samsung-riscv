@@ -13,7 +13,9 @@ the instructor for this program is Kunal Ghosh.
 
 **College:** Global Acadmey Of Technology 
 
-**Github Profile:**https://github.com/Amrutha464
+**Github Profile:** Amrutha464
+
+**G-mail:** karanth.amruth@gmail.com
 
 ## TASK-1:
 Create a GitHub repository named **"samsung-riscv"**, install the RISC-V toolchain using the provided VDI link, follow the steps from the shared lab videos, and capture dated snapshots of the work. Upload the snapshots to the repository with brief descriptions.
