@@ -20,3 +20,6 @@ The instructor for this program is Kunal Ghosh.
 
 ## TASK-1:
 Create a GitHub repository named **"samsung-riscv"**, install the RISC-V toolchain using the provided VDI link, follow the steps from the shared lab videos, and capture dated snapshots of the work. Upload the snapshots to the repository with brief descriptions.
+
+## TASK-2:
+Run the simulation and analyze the performance using the `-O1` and `-Ofast` compiler optimization flags. Write a simple C program (any basic application) and compile it using RISC-V GCC/SPIKE with both optimization options. Generate the RISC-V object dumps for each optimization level and upload the files to the repository.
